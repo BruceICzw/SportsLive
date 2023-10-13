@@ -1,0 +1,866 @@
+{
+  "events": [
+    {
+      "awayScore": {
+        "current": 0,
+        "display": 0
+      },
+      "awayTeam": {
+        "country": {
+          "alpha2": "PA",
+          "name": "Panama"
+        },
+        "disabled": false,
+        "gender": "M",
+        "id": 5164,
+        "name": "Panama",
+        "nameCode": "PAN",
+        "national": true,
+        "ranking": 45,
+        "shortName": "Panama",
+        "slug": "panama",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#005293",
+          "text": "#005293"
+        },
+        "type": 0,
+        "userCount": 15546
+      },
+      "changes": {
+        "changeTimestamp": 1697230865,
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "awayScore.current",
+          "awayScore.display",
+          "time.currentPeriodStart"
+        ]
+      },
+      "crowdsourcingDataDisplayEnabled": false,
+      "customId": "odcsCqx",
+      "detailId": 1,
+      "finalResultOnly": false,
+      "hasEventPlayerHeatMap": true,
+      "hasEventPlayerStatistics": true,
+      "hasGlobalHighlights": false,
+      "homeScore": {
+        "current": 0,
+        "display": 0
+      },
+      "homeTeam": {
+        "country": {
+          "alpha2": "CW",
+          "name": "Curacao"
+        },
+        "disabled": false,
+        "gender": "M",
+        "id": 55827,
+        "name": "Curaçao",
+        "nameCode": "CUR",
+        "national": true,
+        "ranking": 90,
+        "shortName": "Curaçao",
+        "slug": "curacao",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#004990",
+          "secondary": "#000fff",
+          "text": "#000fff"
+        },
+        "type": 0,
+        "userCount": 4985
+      },
+      "id": 11436085,
+      "lastPeriod": "period1",
+      "roundInfo": {
+        "round": 3
+      },
+      "slug": "curacao-panama",
+      "startTimestamp": 1697230800,
+      "status": {
+        "code": 6,
+        "description": "1st half",
+        "type": "inprogress"
+      },
+      "statusTime": {
+        "extra": 540,
+        "initial": 0,
+        "max": 2700,
+        "prefix": "",
+        "timestamp": 1697230862
+      },
+      "time": {
+        "currentPeriodStartTimestamp": 1697230862,
+        "extra": 540,
+        "initial": 0,
+        "max": 2700
+      },
+      "tournament": {
+        "category": {
+          "flag": "north-and-central-america",
+          "id": 1469,
+          "name": "North & Central America",
+          "slug": "north-central-america",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          }
+        },
+        "id": 75234,
+        "name": "CONCACAF Nations League, League A, Group A",
+        "priority": 0,
+        "slug": "concacaf-nations-league-league-a-group-a",
+        "uniqueTournament": {
+          "category": {
+            "flag": "north-and-central-america",
+            "id": 1469,
+            "name": "North & Central America",
+            "slug": "north-central-america",
+            "sport": {
+              "id": 1,
+              "name": "Football",
+              "slug": "football"
+            }
+          },
+          "country": {},
+          "crowdsourcingEnabled": false,
+          "displayInverseHomeAwayTeams": false,
+          "hasEventPlayerStatistics": false,
+          "hasPerformanceGraphFeature": false,
+          "id": 14100,
+          "name": "CONCACAF Nations League",
+          "primaryColorHex": "#0084cb",
+          "secondaryColorHex": "#d34346",
+          "slug": "concacaf-nations-league",
+          "userCount": 16662
+        }
+      }
+    },
+    {
+      "awayScore": {
+        "current": 4,
+        "display": 4,
+        "normaltime": 3,
+        "period1": 3,
+        "period2": 0
+      },
+      "awayTeam": {
+        "country": {
+          "alpha2": "GF",
+          "name": "French Guiana"
+        },
+        "gender": "M",
+        "id": 52906,
+        "name": "French Guiana",
+        "nameCode": "FGU",
+        "national": true,
+        "shortName": "French Guiana",
+        "slug": "french-guiana",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#fff30d",
+          "secondary": "#79be4e",
+          "text": "#79be4e"
+        },
+        "type": 0,
+        "userCount": 1445
+      },
+      "changes": {
+        "changeTimestamp": 1697231490,
+        "changes": [
+          "awayScore.current",
+          "awayScore.display"
+        ]
+      },
+      "crowdsourcingDataDisplayEnabled": false,
+      "customId": "wLisgiw",
+      "detailId": 1,
+      "finalResultOnly": false,
+      "hasEventPlayerHeatMap": true,
+      "hasEventPlayerStatistics": true,
+      "hasGlobalHighlights": false,
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "normaltime": 1,
+        "period1": 1,
+        "period2": 0
+      },
+      "homeTeam": {
+        "country": {
+          "alpha2": "VC",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "disabled": false,
+        "gender": "M",
+        "id": 21821,
+        "name": "Saint Vincent and the Grenadines",
+        "nameCode": "VCT",
+        "national": true,
+        "ranking": 176,
+        "shortName": "Saint Vincent and the Grenadines",
+        "slug": "saint-vincent-and-the-grenadines",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#ffff00",
+          "secondary": "#008000",
+          "text": "#008000"
+        },
+        "type": 0,
+        "userCount": 778
+      },
+      "id": 11622163,
+      "lastPeriod": "period2",
+      "roundInfo": {
+        "round": 3
+      },
+      "slug": "french-guiana-saint-vincent-and-the-grenadines",
+      "startTimestamp": 1697225400,
+      "status": {
+        "code": 7,
+        "description": "2nd half",
+        "type": "inprogress"
+      },
+      "statusTime": {
+        "extra": 540,
+        "initial": 2700,
+        "max": 5400,
+        "prefix": "",
+        "timestamp": 1697229343
+      },
+      "time": {
+        "currentPeriodStartTimestamp": 1697229343,
+        "extra": 540,
+        "initial": 2700,
+        "injuryTime1": 3,
+        "max": 5400
+      },
+      "tournament": {
+        "category": {
+          "flag": "north-and-central-america",
+          "id": 1469,
+          "name": "North & Central America",
+          "slug": "north-central-america",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          }
+        },
+        "id": 75920,
+        "name": "CONCACAF Nations League, League B, Group C",
+        "priority": 0,
+        "slug": "concacaf-nations-league-league-b-group-c",
+        "uniqueTournament": {
+          "category": {
+            "flag": "north-and-central-america",
+            "id": 1469,
+            "name": "North & Central America",
+            "slug": "north-central-america",
+            "sport": {
+              "id": 1,
+              "name": "Football",
+              "slug": "football"
+            }
+          },
+          "country": {},
+          "crowdsourcingEnabled": false,
+          "displayInverseHomeAwayTeams": false,
+          "hasEventPlayerStatistics": false,
+          "hasPerformanceGraphFeature": false,
+          "id": 14100,
+          "name": "CONCACAF Nations League",
+          "primaryColorHex": "#0084cb",
+          "secondaryColorHex": "#d34346",
+          "slug": "concacaf-nations-league",
+          "userCount": 16662
+        }
+      }
+    },
+    {
+      "awayScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 2
+      },
+      "awayTeam": {
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        },
+        "disabled": false,
+        "gender": "M",
+        "id": 3206,
+        "name": "Estudiantes de La Plata",
+        "nameCode": "ELP",
+        "national": false,
+        "shortName": "Estudiantes",
+        "slug": "estudiantes-de-la-plata",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "userCount": 18789
+      },
+      "changes": {
+        "changeTimestamp": 1697231279,
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ]
+      },
+      "crowdsourcingDataDisplayEnabled": false,
+      "customId": "gobsEcd",
+      "detailId": 1,
+      "finalResultOnly": false,
+      "hasEventPlayerHeatMap": true,
+      "hasEventPlayerStatistics": true,
+      "hasGlobalHighlights": false,
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "homeTeam": {
+        "country": {
+          "alpha2": "AR",
+          "name": "Argentina"
+        },
+        "disabled": false,
+        "gender": "M",
+        "id": 7629,
+        "name": "Huracán",
+        "nameCode": "HUR",
+        "national": false,
+        "shortName": "Huracán",
+        "slug": "huracan",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#dd0000",
+          "text": "#dd0000"
+        },
+        "type": 0,
+        "userCount": 14211
+      },
+      "id": 11674396,
+      "lastPeriod": "period2",
+      "roundInfo": {
+        "cupRoundType": 4,
+        "name": "Quarterfinal",
+        "round": 27,
+        "slug": "quarterfinal"
+      },
+      "slug": "huracan-estudiantes-de-la-plata",
+      "startTimestamp": 1697227200,
+      "status": {
+        "code": 7,
+        "description": "2nd half",
+        "type": "inprogress"
+      },
+      "statusTime": {
+        "extra": 540,
+        "initial": 2700,
+        "max": 5400,
+        "prefix": "",
+        "timestamp": 1697231276
+      },
+      "time": {
+        "currentPeriodStartTimestamp": 1697231276,
+        "extra": 540,
+        "initial": 2700,
+        "injuryTime1": 2,
+        "max": 5400
+      },
+      "tournament": {
+        "category": {
+          "alpha2": "AR",
+          "flag": "argentina",
+          "id": 48,
+          "name": "Argentina",
+          "slug": "argentina",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          }
+        },
+        "id": 273,
+        "name": "Copa Argentina",
+        "priority": 0,
+        "slug": "copa-argentina",
+        "uniqueTournament": {
+          "category": {
+            "alpha2": "AR",
+            "flag": "argentina",
+            "id": 48,
+            "name": "Argentina",
+            "slug": "argentina",
+            "sport": {
+              "id": 1,
+              "name": "Football",
+              "slug": "football"
+            }
+          },
+          "country": {},
+          "crowdsourcingEnabled": false,
+          "displayInverseHomeAwayTeams": false,
+          "hasEventPlayerStatistics": false,
+          "hasPerformanceGraphFeature": false,
+          "id": 1024,
+          "name": "Copa Argentina",
+          "primaryColorHex": "#187ec0",
+          "secondaryColorHex": "#44a4d8",
+          "slug": "copa-argentina",
+          "userCount": 18095
+        }
+      }
+    },
+    {
+      "awayRedCards": 1,
+      "awayScore": {
+        "current": 0,
+        "display": 0
+      },
+      "awayTeam": {
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "disabled": false,
+        "gender": "M",
+        "id": 414090,
+        "name": "Guanabara City U20",
+        "nameCode": "GCI",
+        "national": false,
+        "shortName": "Guanabara City",
+        "slug": "guanabara-city-u20",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "userCount": 129
+      },
+      "changes": {
+        "changeTimestamp": 1697231604,
+        "changes": [
+          "homeScore.current",
+          "homeScore.display"
+        ]
+      },
+      "coverage": -1,
+      "crowdsourcingDataDisplayEnabled": false,
+      "customId": "FTxcsPGpd",
+      "finalResultOnly": false,
+      "hasGlobalHighlights": false,
+      "homeScore": {
+        "current": 2,
+        "display": 2
+      },
+      "homeTeam": {
+        "country": {
+          "alpha2": "BR",
+          "name": "Brazil"
+        },
+        "gender": "M",
+        "id": 307180,
+        "name": "Trindade U20",
+        "nameCode": "TRI",
+        "national": false,
+        "shortName": "Trindade",
+        "slug": "trindade-u20",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#0000ff",
+          "secondary": "#000091",
+          "text": "#000091"
+        },
+        "type": 0,
+        "userCount": 439
+      },
+      "id": 11738770,
+      "lastPeriod": "period1",
+      "slug": "guanabara-city-u20-trindade-u20",
+      "startTimestamp": 1697230800,
+      "status": {
+        "code": 6,
+        "description": "1st half",
+        "type": "inprogress"
+      },
+      "statusTime": {
+        "extra": 540,
+        "initial": 0,
+        "max": 2700,
+        "prefix": "",
+        "timestamp": 1697230860
+      },
+      "time": {
+        "currentPeriodStartTimestamp": 1697230860,
+        "extra": 540,
+        "initial": 0,
+        "max": 2700
+      },
+      "tournament": {
+        "category": {
+          "alpha2": "BR",
+          "flag": "brazil",
+          "id": 13,
+          "name": "Brazil",
+          "slug": "brazil",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          }
+        },
+        "id": 89553,
+        "name": "Goiania Cup U20",
+        "priority": 0,
+        "slug": "goiania-cup-u20"
+      }
+    },
+    {
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "normaltime": 0,
+        "period1": 0
+      },
+      "awayTeam": {
+        "country": {
+          "alpha2": "CR",
+          "name": "Costa Rica"
+        },
+        "gender": "M",
+        "id": 485408,
+        "name": "PFA Antioquia FC",
+        "nameCode": "PFA",
+        "national": false,
+        "shortName": "PFA Antioquia FC",
+        "slug": "pfa-antioquia-fc",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        },
+        "type": 0,
+        "userCount": 327
+      },
+      "changes": {
+        "changeTimestamp": 1697231424,
+        "changes": [
+          "homeScore.current",
+          "homeScore.display"
+        ]
+      },
+      "crowdsourcingDataDisplayEnabled": false,
+      "customId": "RPcsiiUd",
+      "finalResultOnly": false,
+      "hasGlobalHighlights": false,
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "normaltime": 0,
+        "period1": 0
+      },
+      "homeTeam": {
+        "country": {
+          "alpha2": "CR",
+          "name": "Costa Rica"
+        },
+        "gender": "M",
+        "id": 7042,
+        "name": "AD Carmelita",
+        "nameCode": "CAR",
+        "national": false,
+        "shortName": "AD Carmelita",
+        "slug": "ad-carmelita",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#049444",
+          "text": "#049444"
+        },
+        "type": 0,
+        "userCount": 1314
+      },
+      "id": 11484849,
+      "lastPeriod": "period2",
+      "roundInfo": {
+        "round": 15
+      },
+      "slug": "pfa-antioquia-fc-ad-carmelita",
+      "startTimestamp": 1697227200,
+      "status": {
+        "code": 7,
+        "description": "2nd half",
+        "type": "inprogress"
+      },
+      "statusTime": {
+        "extra": 540,
+        "initial": 2700,
+        "max": 5400,
+        "prefix": "",
+        "timestamp": 1697230920
+      },
+      "time": {
+        "currentPeriodStartTimestamp": 1697230920,
+        "extra": 540,
+        "initial": 2700,
+        "max": 5400
+      },
+      "tournament": {
+        "category": {
+          "alpha2": "CR",
+          "flag": "costa-rica",
+          "id": 289,
+          "name": "Costa Rica",
+          "slug": "costa-rica",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          }
+        },
+        "id": 12903,
+        "name": "Liga de Ascenso, Apertura, Group 1",
+        "priority": 0,
+        "slug": "liga-de-ascenso-apertura-group-1",
+        "uniqueTournament": {
+          "category": {
+            "alpha2": "CR",
+            "flag": "costa-rica",
+            "id": 289,
+            "name": "Costa Rica",
+            "slug": "costa-rica",
+            "sport": {
+              "id": 1,
+              "name": "Football",
+              "slug": "football"
+            }
+          },
+          "country": {},
+          "crowdsourcingEnabled": false,
+          "displayInverseHomeAwayTeams": false,
+          "hasEventPlayerStatistics": false,
+          "hasPerformanceGraphFeature": false,
+          "id": 11671,
+          "name": "Liga de Ascenso, Apertura",
+          "primaryColorHex": "#931a24",
+          "secondaryColorHex": "#f07c3c",
+          "slug": "liga-de-ascenso-apertura",
+          "userCount": 1001
+        }
+      }
+    },
+    {
+      "awayScore": {
+        "current": 3,
+        "display": 3,
+        "normaltime": 2,
+        "period1": 2
+      },
+      "awayTeam": {
+        "country": {
+          "alpha2": "NX",
+          "name": "Northern Ireland"
+        },
+        "gender": "M",
+        "id": 5273,
+        "name": "Institute",
+        "nameCode": "INS",
+        "national": false,
+        "shortName": "Institute",
+        "slug": "institute",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#aad0ff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "type": 0,
+        "userCount": 417
+      },
+      "changes": {
+        "changeTimestamp": 1697230116,
+        "changes": [
+          "awayScore.current",
+          "awayScore.display"
+        ]
+      },
+      "crowdsourcingDataDisplayEnabled": false,
+      "customId": "Hdcsyfc",
+      "finalResultOnly": false,
+      "hasGlobalHighlights": false,
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "normaltime": 1,
+        "period1": 1
+      },
+      "homeTeam": {
+        "country": {
+          "alpha2": "NX",
+          "name": "Northern Ireland"
+        },
+        "gender": "M",
+        "id": 5182,
+        "name": "Ards FC",
+        "nameCode": "ARD",
+        "national": false,
+        "shortName": "Ards",
+        "slug": "ards-fc",
+        "sport": {
+          "id": 1,
+          "name": "Football",
+          "slug": "football"
+        },
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#0029ff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        },
+        "type": 0,
+        "userCount": 539
+      },
+      "id": 11393710,
+      "lastPeriod": "period2",
+      "roundInfo": {
+        "round": 11
+      },
+      "slug": "institute-ards-fc",
+      "startTimestamp": 1697222700,
+      "status": {
+        "code": 7,
+        "description": "2nd half",
+        "type": "inprogress"
+      },
+      "statusTime": {
+        "extra": 540,
+        "initial": 2700,
+        "max": 5400,
+        "prefix": "",
+        "timestamp": 1697229000
+      },
+      "time": {
+        "currentPeriodStartTimestamp": 1697229000,
+        "extra": 540,
+        "initial": 2700,
+        "max": 5400
+      },
+      "tournament": {
+        "category": {
+          "alpha2": "NX",
+          "flag": "northern-ireland",
+          "id": 130,
+          "name": "Northern Ireland",
+          "slug": "northern-ireland",
+          "sport": {
+            "id": 1,
+            "name": "Football",
+            "slug": "football"
+          }
+        },
+        "id": 8793,
+        "name": "Championship",
+        "priority": 0,
+        "slug": "championship",
+        "uniqueTournament": {
+          "category": {
+            "alpha2": "NX",
+            "flag": "northern-ireland",
+            "id": 130,
+            "name": "Northern Ireland",
+            "slug": "northern-ireland",
+            "sport": {
+              "id": 1,
+              "name": "Football",
+              "slug": "football"
+            }
+          },
+          "country": {},
+          "crowdsourcingEnabled": false,
+          "displayInverseHomeAwayTeams": false,
+          "hasEventPlayerStatistics": false,
+          "hasPerformanceGraphFeature": false,
+          "id": 701,
+          "name": "Championship",
+          "primaryColorHex": "#010c34",
+          "secondaryColorHex": "#53b1ff",
+          "slug": "championship",
+          "userCount": 852
+        }
+      }
+    }
+  ]
+}
